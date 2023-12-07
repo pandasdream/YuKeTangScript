@@ -1,0 +1,13 @@
+{"user_id":"xxxxxxxx",
+"cookie":"xxx",
+"start_video_id":xxxxxxxx,
+"user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",
+"Referer": "https://buaa.yuketang.cn/",
+"cid":"3303400",
+"classroom_id":"18792494",
+"uv_id":"2813",
+"sign":"9P32z92iFqL",
+"get_page_type_upper":"https://buaa.yuketang.cn/mooc-api/v1/lms/learn/leaf_info/18792494/",
+"get_page_type_latter":"/?sign=9P32z92iFqL&term=latest&uv_id=2813",
+"start_url":"https://buaa.yuketang.cn/pro/lms/9P32z92iFqL/18792494/video/"
+}
